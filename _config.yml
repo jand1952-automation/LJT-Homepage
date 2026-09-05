@@ -181,7 +181,7 @@ exclude:
   - config
   - Dockerfile
   - Gemfile
-  - - Gruntfile.js
+  - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - local
